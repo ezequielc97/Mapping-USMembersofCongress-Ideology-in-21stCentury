@@ -28,28 +28,35 @@ end of doc).
 
 ##### Rough Map Samples
 
-  - Representative Dimension 1 Nominate Scores by District, California,
-    2018
+  - Mapped House Districts for Dimension 1 Scores \[10/3/20\], 116th
+    Congress, United States (2018)
+
+![Mapped House Districts for Dimension 1 Scores \[10/3/20\], 116th
+Congress, United States (2018)](DWN-D1-MappedDistricts-current.png)
+
+  - Representative Dimension 1 Nominate Scores by District, 116th
+    Congress, California (2018)
 
 ![Representative Dimension 1 Nominate Scores by District, California,
 2018](DWN-D1-116thC-House-California.png)
 
 ##### To Do Next
 
-  - Finish Mapping Dimension 1 Nominate Score for all House districts
+  - Finish Mapping Dimension 1 Nominate Score for all 2018 House
+    districts
 
-  - map dimension 2
+  - 
+  - map dimension 2 scores for 2018
 
-  - Add 2016-2018 Congressional district layer to GIS proj
+  - Add 2016-2017 Congressional district layer to GIS proj
 
   - update file table
-
-  - build script to plot individual district scores over years
 
   - build script to subset by political party, add party layer to GIS
     proj
 
-  - 
+  - build longitudinal change plot script
+
 ##### Data
 
 Ideological data from:
@@ -68,8 +75,3 @@ Congressional District cartogtraphic boundary data from:
   - [US Census Bureau - Congressional DistrictsCartographic Boundary
     Files -
     Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
-
-Google Satelite Hybrid Base Map
-
-  - [Google Satellite
-    Hybrid](https://mt1.google.com/vt/lyrs=y&x=%7Bx%7D&y=%7By%7D&z=%7Bz%7D)
