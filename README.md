@@ -36,16 +36,24 @@ end of doc).
 
 ##### Data
 
-Ideological data from: \* Lewis, Jeffrey B., Keith Poole, Howard
-Rosenthal, Adam Boche, Aaron Rudkin, and Luke Sonnet (2020). Voteview:
-Congressional Roll-Call Votes Database. <https://voteview.com/>
+Ideological data from:
 
-See documentation for Entity definitions in data here: \* [Entity name
-definitions](https://github.com/ezequielc97/Mapping-USMembersofCongress-Ideology-in-21stCentury/tree/main/CongDistrict-CartographicBoundaries/EntityNameDefinitions)
+  - Lewis, Jeffrey B., Keith Poole, Howard Rosenthal, Adam Boche, Aaron
+    Rudkin, and Luke Sonnet (2020). Voteview: Congressional Roll-Call
+    Votes Database. <https://voteview.com/>
 
-Congressional District cartogtraphic boundary data from: \* [US Census
-Bureau - Congressional DistrictsCartographic Boundary Files -
-Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
+See documentation for Entity definitions in data here:
 
-Google Satelite Hybrid Base Map \* [Google Satellite
-Hybrid](https://mt1.google.com/vt/lyrs=y&x=%7Bx%7D&y=%7By%7D&z=%7Bz%7D)
+  - [Entity name
+    definitions](https://github.com/ezequielc97/Mapping-USMembersofCongress-Ideology-in-21stCentury/tree/main/CongDistrict-CartographicBoundaries/EntityNameDefinitions)
+
+Congressional District cartogtraphic boundary data from:
+
+  - [US Census Bureau - Congressional DistrictsCartographic Boundary
+    Files -
+    Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
+
+Google Satelite Hybrid Base Map
+
+  - [Google Satellite
+    Hybrid](https://mt1.google.com/vt/lyrs=y&x=%7Bx%7D&y=%7By%7D&z=%7Bz%7D)
