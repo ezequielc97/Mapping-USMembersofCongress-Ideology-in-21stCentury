@@ -28,7 +28,7 @@ end of doc).
 
 ##### Rough Map Samples
 
-  - Mapped House Districts for Dimension 1 Scores \[10/3/20\], 116th
+  - Mapped House Districts for Dimension 1 Scores \[extent as of 10/3/20\], 116th
     Congress, United States (2018)
 
 ![Mapped House Districts for Dimension 1 Scores \[10/3/20\], 116th
