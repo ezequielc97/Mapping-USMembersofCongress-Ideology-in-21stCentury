@@ -32,7 +32,7 @@ This work in progress will map DW-Nominate Scores for US members of Congress (US
 - Add 2016-2018 Congressional district layer to GIS proj
 - update file table
 - build script to plot individual district scores over years 
--
+- build script to subset by political party, add party layer to GIS proj 
 
 ##### Data #####
 

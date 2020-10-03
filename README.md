@@ -29,12 +29,11 @@ end of doc).
 ##### To Do Next
 
   - Add 2016-2018 Congressional district layer to GIS proj
-
   - update file table
-
   - build script to plot individual district scores over years
+  - build script to subset by political party, add party layer to GIS
+    proj
 
-  - 
 ##### Data
 
 Ideological data from: \* Lewis, Jeffrey B., Keith Poole, Howard
