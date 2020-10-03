@@ -28,7 +28,11 @@ end of doc).
 
 ##### To Do Next
 
-  - Add 2016-2017 Congressional district layer to QGIS proj
+  - Add 2016-2018 Congressional district layer to GIS proj
+
+  - update file table
+
+  - build script to plot individual district scores over years
 
   - 
 ##### Data
@@ -36,6 +40,9 @@ end of doc).
 Ideological data from: \* Lewis, Jeffrey B., Keith Poole, Howard
 Rosenthal, Adam Boche, Aaron Rudkin, and Luke Sonnet (2020). Voteview:
 Congressional Roll-Call Votes Database. <https://voteview.com/>
+
+See documentation for Entity definitions in data here: \* [Entity name
+definitions](https://github.com/ezequielc97/Mapping-USMembersofCongress-Ideology-in-21stCentury/tree/main/CongDistrict-CartographicBoundaries/EntityNameDefinitions)
 
 Congressional District cartogtraphic boundary data from: \* [US Census
 Bureau - Congressional DistrictsCartographic Boundary Files -
