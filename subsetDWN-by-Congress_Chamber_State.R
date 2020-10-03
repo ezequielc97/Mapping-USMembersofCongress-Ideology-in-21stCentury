@@ -36,3 +36,17 @@ barplot(DWNbyDistrict$nominate_dim1, space = 0.5, col=rgb(0.2,0.2,0.7,1.0),
         horiz = FALSE)
 dev.off() ##### .png device off ##### 
 
+write.csv(DWNHouse_California, file = "DWN-116thC-House-California.csv")
+
+
+DWNHouse_California$STATEFP <- stringr::str_pad(6, width = 1,side = c("left"), pad = "0")
+DWNHouse_California$CD116FP <- DWNHouse_California$district_code
+
+DWNHouse_California$STCD <- paste(DWNHouse_California$state_abbrev,"-",DWNHouse_California$district_code, sep="")
+
+write.csv(DWNHouse_California, file = "DWN-116thC-House-California-STATEFP-CD116FP.csv")
+
+#NumDistrictsInState <- seq(1, 54)
+#STATEFP <- data.frame(fix.empty.names = FALSE)
+
+

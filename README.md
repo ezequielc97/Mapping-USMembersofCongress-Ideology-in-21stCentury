@@ -26,6 +26,14 @@ end of doc).
   - “map-master.qgz” ….. master QGIS map project
   - "
 
+##### Rough Map Samples
+
+  - Representative Dimension 1 Nominate Scores by District, California,
+    2018
+
+![Representative Dimension 1 Nominate Scores by District, California,
+2018](DWN1-116thC-House-California.png)
+
 ##### To Do Next
 
   - Add 2016-2018 Congressional district layer to GIS proj

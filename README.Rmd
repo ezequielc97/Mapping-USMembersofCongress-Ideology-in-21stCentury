@@ -25,6 +25,11 @@ This work in progress will map DW-Nominate Scores for US members of Congress (US
 ```{r pressure, echo=TRUE}
 ```
 
+##### Rough Map Samples #####
+
+- Representative Dimension 1 Nominate Scores by District, California, 2018
+
+![Representative Dimension 1 Nominate Scores by District, California, 2018](DWN1-116thC-House-California.png)
 
 
 ##### To Do Next #####
