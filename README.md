@@ -28,10 +28,10 @@ end of doc).
 
 ##### Rough Map Samples
 
-  - Mapped House Districts for Dimension 1 Scores \[extent as of 10/3/20\], 116th
-    Congress, United States (2018)
+  - Mapped House Districts for Dimension 1 Scores \[as of 10/3/20\],
+    116th Congress, United States (2018)
 
-![Mapped House Districts for Dimension 1 Scores \[10/3/20\], 116th
+![Mapped House Districts for Dimension 1 Scores \[as of 10/3/20\], 116th
 Congress, United States (2018)](DWN-D1-MappedDistricts-current.png)
 
   - Representative Dimension 1 Nominate Scores by District, 116th
@@ -50,7 +50,7 @@ Congress, United States (2018)](DWN-D1-MappedDistricts-current.png)
   - map dimension 2 scores for 2018
   - Add 2016-2017 Congressional district layer to GIS proj
   - update file table
-  - build longitudinal change plot script
+  - build %change over election years plot script
 
 ##### Data
 
