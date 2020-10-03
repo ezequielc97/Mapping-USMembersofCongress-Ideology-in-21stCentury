@@ -44,7 +44,7 @@ Congress, United States (2018)](DWN-D1-MappedDistricts-current.png)
 
   - Finish Mapping Dimension 1 Nominate Score for all 2018 House
     districts
-  - build script to subset by political party, add party layer to GIS
+  - build R script to subset by political party, add party layer to GIS
     proj
   - build initial webmap
   - map dimension 2 scores for 2018
