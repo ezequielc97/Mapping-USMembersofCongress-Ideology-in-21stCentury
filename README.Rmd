@@ -29,7 +29,7 @@ This work in progress will map DW-Nominate Scores for US members of Congress (US
 
 - Mapped House Districts for Dimension 1 Scores [as of 10/3/20], 116th Congress, United States (2018)
 
-![Mapped House Districts for Dimension 1 Scores [as of 10/3/20], 116th Congress, United States (2018)](DWN-D1-MappedDistricts-current.png)
+![Mapped House Districts for Dimension 1 Scores (as of 10/3/20), 116th Congress, United States (2018)](DWN-D1-MappedDistricts-current.png)
 
 
 - Representative Dimension 1 Nominate Scores by District, 116th Congress, California (2018)

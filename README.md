@@ -7,7 +7,8 @@ Ezequiel Contreras
 ##### Introduction
 
 The purpose of this work in progress is to create a geo-spatial
-visualization of the ideological scores of US Congress members from 2000-2018. 
+visualization of the ideological representation in the United States
+Congress.
 
 DW-NOMINATE Scores are a measure of ideology developed by Keith T. Poole
 and Howard Rosenthal at Carnegie-Mellon University between in the late
@@ -30,7 +31,7 @@ end of doc).
   - Mapped House Districts for Dimension 1 Scores \[as of 10/3/20\],
     116th Congress, United States (2018)
 
-![Mapped House Districts for Dimension 1 Scores \[as of 10/3/20\], 116th
+![Mapped House Districts for Dimension 1 Scores (as of 10/3/20), 116th
 Congress, United States (2018)](DWN-D1-MappedDistricts-current.png)
 
   - Representative Dimension 1 Nominate Scores by District, 116th
