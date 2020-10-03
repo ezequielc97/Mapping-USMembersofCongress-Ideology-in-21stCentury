@@ -7,7 +7,7 @@ Ezequiel Contreras
 ##### Introduction
 
 The purpose of this work in progress is to create a geo-spatial
-visualization of the ideological scores of US Congress members. 
+visualization of the ideological scores of US Congress members from 2000-2018. 
 
 DW-NOMINATE Scores are a measure of ideology developed by Keith T. Poole
 and Howard Rosenthal at Carnegie-Mellon University between in the late
