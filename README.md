@@ -38,6 +38,8 @@ end of doc).
 
   - Finish Mapping Dimension 1 Nominate Score for all House districts
 
+  - map dimension 2
+
   - Add 2016-2018 Congressional district layer to GIS proj
 
   - update file table

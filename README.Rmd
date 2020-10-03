@@ -35,6 +35,7 @@ This work in progress will map DW-Nominate Scores for US members of Congress (US
 ##### To Do Next #####
 
 - Finish Mapping Dimension 1 Nominate Score for all House districts
+- map dimension 2
 - Add 2016-2018 Congressional district layer to GIS proj
 - update file table
 - build script to plot individual district scores over years 
