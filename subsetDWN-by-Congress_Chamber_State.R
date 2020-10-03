@@ -1,5 +1,4 @@
-##### This script outputs "2017-SOCAL-PM25Emissions.png", which charts pm2.5 emissions in Socal counties##### 
-##### 2017-SOCAL-PM25Emissions.R ##### 
+
 
 #####  Assign DWNFolder to data folder ##### 
 DWNFolder = 'DWNominate-Data'
