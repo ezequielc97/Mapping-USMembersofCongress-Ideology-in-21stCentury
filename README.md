@@ -22,16 +22,26 @@ end of doc).
 
 ##### File Table
 
-  - “map-master.qgz” ….. master QGIS map project
-  - "
+  - map-master.qgz ….. latest master QGIS map project
+  - /CongDistrict-CartographicBoundaries ….. Congressional
+    district/State boundary shapefiles
+  - /QGIS-Files ….. QGIS map export templates
+  - /DWNominate-Data ….. Ideological data House/Senate/POTUS
+  - /RScripts ….. mainly subset data scripts
 
 ##### Rough Map Samples
 
-  - Mapped House Districts for Dimension 1 Scores \[as of 10/3/20\],
+  - Mapped House Districts for Dimension 1 Scores \[as of 10/4/20\],
     116th Congress, United States (2018)
 
-![Mapped House Districts for Dimension 1 Scores (as of 10/3/20), 116th
+![Mapped House Districts for Dimension 1 Scores (as of 10/4/20), 116th
 Congress, United States (2018)](DWN-D1-MappedDistricts-current.png)
+
+  - Mapped Senate Districts for Dimension 1 Scores \[as of 10/4/20\],
+    116th Congress, United States (2018)
+
+![Mapped House Districts for Dimension 1 Scores (as of 10/45/20), 116th
+Congress, United States (2018)](DWN-D1-MappedStates-current.png)
 
   - Representative Dimension 1 Nominate Scores by District, 116th
     Congress, California (2018)
@@ -44,10 +54,11 @@ Congress, United States (2018)](DWN-D1-MappedDistricts-current.png)
   - ~~Finish Mapping Dimension 1 Nominate Score for all 2018 House
     districts~~
   - ~~adjust map color coding~~
-  - update file table
+  - ~~update file table~~
+  - ~~add Senate shape layer to map, join Nominate dimension1 data~~
   - upgrade introduction
-  - add PRESIDENT nominate dimension1 score for 2016-2018 to color
-    Washington DC
+  - ~~add PRESIDENT nominate dimension1 score for 2016-2018 to color
+    Washington DC~~
   - map dimension 2 scores for 2018
   - Add 2016-2017 Congressional district layer to GIS proj
   - build R script to subset by political party, add party layer to GIS
