@@ -47,6 +47,8 @@ Congress, United States (2018)](DWN-D1-MappedDistricts-current.png)
   - ~~adjust map color coding~~
   - update file table
   - upgrade introduction
+  - add PRESIDENT nominate dimension1 score for 2016-2018 to color
+    Washington DC
   - map dimension 2 scores for 2018
   - Add 2016-2017 Congressional district layer to GIS proj
   - build R script to subset by political party, add party layer to GIS
