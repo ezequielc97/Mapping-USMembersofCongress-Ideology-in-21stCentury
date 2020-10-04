@@ -6,9 +6,8 @@ Ezequiel Contreras
 
 ##### Introduction
 
-The purpose of this work in progress is to create a geo-spatial
-visualization of the ideological representation in the United States
-Congress.
+The purpose of this work in progress is to map US Representatives’ and
+Senators’ ideological scores onto their districts.
 
 DW-NOMINATE Scores are a measure of ideology developed by Keith T. Poole
 and Howard Rosenthal at Carnegie-Mellon University between in the late
