@@ -42,8 +42,9 @@ Congress, United States (2018)](DWN-D1-MappedDistricts-current.png)
 
 ##### To Do Next
 
-  - Finish Mapping Dimension 1 Nominate Score for all 2018 House
-    districts
+  - ~~Finish Mapping Dimension 1 Nominate Score for all 2018 House
+    districts~~
+  - ~~adjust map color coding~~
   - build R script to subset by political party, add party layer to GIS
     proj
   - build initial webmap
@@ -51,7 +52,6 @@ Congress, United States (2018)](DWN-D1-MappedDistricts-current.png)
   - Add 2016-2017 Congressional district layer to GIS proj
   - update file table
   - build %change over election years plot script
-  - improve map color coding
 
 ##### Data
 
