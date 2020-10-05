@@ -1,0 +1,2 @@
+"","congress","chamber","icpsr","state_icpsr","district_code","state_abbrev","party_code","occupancy","last_means","bioname","bioguide_id","born","died","nominate_dim1","nominate_dim2","nominate_log_likelihood","nominate_geo_mean_probability","nominate_number_of_votes","nominate_number_of_errors","conditional","nokken_poole_dim1","nokken_poole_dim2","STCD"
+"47172",113,"President",99911,99,0,"USA",100,0,0,"OBAMA, Barack","O000167",1961,NA,-0.354,-0.203,-41.04464,0.882,327,11,NA,NA,NA,"USA-DC"
