@@ -11,7 +11,7 @@ if(dir.exists(DWNFolder)) {
 }
 
 ##### filter by Congress ##### 
-DWNCongressNum <- MasterDWNdata[MasterDWNdata$congress==116,]
+DWNCongressNum <- MasterDWNdata[MasterDWNdata$congress==114,]
 
 ##### filter by House #####
 #DWNHouse <- DWNCongressNum[DWNCongressNum$chamber=="House",]
@@ -50,8 +50,8 @@ DWNSenate$STUSPS <- DWNSenate$state_abbrev
 
 #DWNHouse_NewYork$STCD <- paste(DWNHouse_NewYork$state_abbrev,"-",DWNHouse_NewYork$district_code, sep="")
 
-OutputCSV <- "DWN-116thC-Senate-National-STUSPS.csv"
-OutputFolder <- "DWNominate-Data"
+OutputCSV <- "s_114_STUSPS.csv"
+OutputFolder <- "member_ideology_data"
 
 write.csv(DWNSenate, file = paste(OutputFolder,OutputCSV, sep = "/"))
 

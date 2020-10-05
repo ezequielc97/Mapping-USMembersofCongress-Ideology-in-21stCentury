@@ -1,0 +1,258 @@
+File: KnownIssues.txt
+
+Districts were drawn from a list of districts provided in Martis'
+atlas. A few minor issues arise when merging these districts to
+rollcall or other ICPSR member-keyed data.
+
+This file contains a listing of known merging problems arising when
+joining CD shapefiles to rollcall and ICPSR bibliographic data 
+(see ftp://voteview.com/junkord/h01112nw_pres.txt).
+
+
+Congress 7:
+Shapes w/o votes: OH-00
+No votes or members from Ohio are found in the 7th Congress!
+
+Congress 20:
+Votes w/o shapes: GA-00,
+
+There were two at-large seats in the Georgia in the 20th!
+
+WILDE (Jackson GA-99)      GA         44  0      10105 Jackson       555
+GILMER (Jackson GA-99)     GA         44  0       3611 Jackson       555
+
+  20  9188 44 1 GEORGIA  555 TATTNALL,EF TATTNALL, EDWARD FENWICK 
+  20  3287 44 2 GEORGIA  555 FORSYTH, J. FORSYTH, JOHN            
+  20  9343 44 3 GEORGIA  555 THOMPSON, W THOMPSON, WILEY          
+  20  5837 44 4 GEORGIA  555 LUMPKIN, W. LUMPKIN, WILSON          
+  20  4238 44 5 GEORGIA  555 HAYNES, C.E HAYNES, CHARLES EATON    
+  20  3291 44 6 GEORGIA  555 FORT, T.    FORT, TOMLINSON          
+  20  3233 44 7 GEORGIA  555 FLOYD, J.   FLOYD, JOHN GEORGIA-     
+  20 10105 4499 GEORGIA  555 WILDE, R.H. WILDE, RICHARD HENRY     
+  20  3611 4499 GEORGIA  555 GILMER, G.R GILMER, GEORGE ROCKINGHAM
+
+
+Congress 23:
+Shapes w/o votes: ME-08
+
+There is no member from Maine's 8th district listed in the 23rd
+Congress's rollcall data. Such a member does exist in the 24th, 25th,
+26th, and 27th.
+
+Maine 023023027008 8 23 27
+
+  23  6277  2 1 MAINE    555 MC INTIRE,R MCINTIRE, RUFUS          
+  23  8614  2 2 MAINE    555 SMITH,F.O.J SMITH, FRANCIS ORMAND JON
+  23  5103  2 3 MAINE    555 KAVANAGH,E. KAVANAGH, EDWARD         
+  23  3007  2 4 MAINE   1275 EVANS, G.   EVANS, GEORGE            
+  23  6060  2 5 MAINE    555 MASON, M.   MASON, MOSES JR.         
+  23  3943  2 6 MAINE    555 HALL, J.    HALL, JOSEPH             
+  23  7207  2 7 MAINE    555 PARKS, G.   PARKS, GORHAM            
+  23  4896  2 7 MAINE    555 JARVIS, L.  JARVIS, LEONARD  
+
+
+Congress 31:
+Shapes w/o votes: MA-04, 
+
+MA's 4th district appears to have been unfilled in the rollcall data.
+
+From HOU31KH.ORD:
+
+                      state icpsrState cd icpsrLegis     party partyCode
+WINTHROP (Whig MA-1)      MA          3  1      10284      Whig        29
+ELIOT (Whig MA-1)         MA          3  1       2894      Whig        29
+KING (Whig MA-2)          MA          3  2       5257      Whig        29
+DUNCAN (Whig MA-3)        MA          3  3       2759      Whig        29
+ALLEN (Free Soil MA-5)    MA          3  5        101 Free Soil       300
+ASHMUN (Whig MA-6)        MA          3  6        272      Whig        29
+ROCKWELL (Whig MA-7)      MA          3  7       8004      Whig        29
+MANN (Whig MA-8)          MA          3  8       5957      Whig        29
+FOWLER (Whig MA-9)        MA          3  9       3327      Whig        29
+GRINNELL (Whig MA-10)     MA          3 10       3836      Whig        29
+
+From h01112nw_pres.txt:
+
+  31 10284  3 1 MASSACH   29 WINTHROP    WINTHROP, ROBERT CHARLES 
+  31  2894  3 1 MASSACH   29 ELIOT       ELIOT, SAMUEL ATKINS     
+  31  5257  3 2 MASSACH   29 KING,D.P.   KING, DANIEL PUTNAM      
+  31  2759  3 3 MASSACH   29 DUNCAN      DUNCAN, JAMES HENRY      
+  31   101  3 5 MASSACH  300 ALLEN       ALLEN, CHARLES           
+  31   272  3 6 MASSACH   29 ASHMUN      ASHMUN, GEORGE           
+  31  8004  3 7 MASSACH   29 ROCKWELL    ROCKWELL, JULIUS         
+  31  5957  3 8 MASSACH   29 MANN,H.     MANN, HORACE             
+  31  3327  3 9 MASSACH   29 FOWLER      FOWLER, ORIN             
+  31  3836  310 MASSACH   29 GRINNELL    GRINNELL, JOSEPH         
+
+
+Congress 40:
+Shapes w/o votes: GA-06,  KY-02, 
+
+Neither GA-06 or KY-02 appear to have been filled according to the
+rollcall data.
+
+From HOU40KH.ORD:
+
+                 state icpsrState cd icpsrLegis party partyCode
+TRIMBLE (D KY-1)    KY         51  1       9475     D       100
+GOLLADY (D KY-3)    KY         51  3       3661     D       100
+HISE (D KY-3)       KY         51  3       4453     D       100
+KNOTT (D KY-4)      KY         51  4       5341     D       100
+GROVER (D KY-5)     KY         51  5       3860     D       100
+JONES (D KY-6)      KY         51  6       5063     D       100
+BECK (D KY-7)       KY         51  7        560     D       100
+ADAMS (D KY-8)      KY         51  8         28     D       100
+MCKEE (R KY-9)      KY         51  9       6291     R       200
+CLIFT (R GA-1)      GA         44  1       1842     R       200
+TIFT (D GA-2)       GA         44  2       9381     D       100
+EDWARDS (R GA-3)    GA         44  3       2877     R       200
+GOVE (R GA-4)       GA         44  4       3728     R       200
+PRINCE (R GA-5)     GA         44  5       7623     R       200
+YOUNG (D GA-7)      GA         44  7      10451     D       100
+
+From h01112nw_pres.txt:
+
+  40  9475 51 1 KENTUCK  100 TRIMBLE, L. TRIMBLE, LAWRENCE STROTHE
+  40  3661 51 3 KENTUCK  100 GOLLADY, J. GOLLADAY, JACOB SHALL    
+  40  4453 51 3 KENTUCK  100 HISE, E.    HISE, ELIJAH             
+  40  5341 51 4 KENTUCK  100 KNOTT, J.P. KNOTT, JAMES PROCTOR     
+  40  3860 51 5 KENTUCK  100 GROVER, A.  GROVER, ASA PORTER       
+  40  5063 51 6 KENTUCK  100 JONES, T.L. JONES, THOMAS LAURENS    
+  40   560 51 7 KENTUCK  100 BECK, J.B.  BECK, JAMES BURNIE       
+  40    28 51 8 KENTUCK  100 ADAMS, G.M. ADAMS, GEORGE MADISON    
+  40  6291 51 9 KENTUCK  200 MCKEE, S.   MCKEE, SAMUEL -KENTUCKY. 
+  40  1842 44 1 GEORGIA  200 CLIFT, J.W. CLIFT, JOSEPH WALES      
+  40  9381 44 2 GEORGIA  100 TIFT, N.    TIFT, NELSON             
+  40  2877 44 3 GEORGIA  200 EDWARDS, W. EDWARDS, WILLIAM POSEY   
+  40  3728 44 4 GEORGIA  200 GOVE, S.F.  GOVE, SAMUEL FRANCIS     
+  40  7623 44 5 GEORGIA  200 PRINCE, C.  PRINCE, CHARLES HENRY    
+  40 10451 44 7 GEORGIA  100 YOUNG, P.M. YOUNG, PIERCE MANNING BUT
+
+
+Congress 66:
+Shapes w/o votes: WI-05, 
+
+The 5th district of Wisconsin appears to be unifilled in the rollcall data.
+
+From HOU66KH.ORD:
+                 state icpsrState cd icpsrLegis party partyCode
+RANDALL (R WI-1)    WI         25  1       7714     R       200
+VOIGT (R WI-2)      WI         25  2       9680     R       200
+MONAHAN (R WI-3)    WI         25  3       6588     R       200
+KLECZKA (R WI-4)    WI         25  4       5316     R       200
+LAMPERT (R WI-6)    WI         25  6       5426     R       200
+ESCH (R WI-7)       WI         25  7       2988     R       200
+BROWNE (R WI-8)     WI         25  8       1143     R       200
+CLASSON (R WI-9)    WI         25  9       1804     R       200
+FREAR (R WI-10)     WI         25 10       3348     R       200
+NELSON (R WI-11)    WI         25 11       6861     R       200
+
+From  h01112nw_pres.txt:
+  66  7714 25 1 WISCONS  200 RANDALL, C. RANDALL, CLIFFORD ELLSWOR
+  66  9680 25 2 WISCONS  200 VOIGT, E.   VOIGT, EDWARD            
+  66  6588 25 3 WISCONS  200 MONAHAN, J. MONAHAN, JAMES GIDEON    
+  66  5316 25 4 WISCONS  200 KLECZKA, J. KLECZKA, JOHN CASIMIR    
+  66  5426 25 6 WISCONS  200 LAMPERT, F. LAMPERT, FLORIAN         
+  66  2988 25 7 WISCONS  200 ESCH, J.J.  ESCH, JOHN JACOB         
+  66  1143 25 8 WISCONS  200 BROWNE, E.  BROWNE, EDWARD EVERTS    
+  66  1804 25 9 WISCONS  200 CLASSON, D. CLASSON, DAVID GUY       
+  66  3348 2510 WISCONS  200 FREAR, J.A. FREAR, JAMES ARCHIBALD   
+  66  6861 2511 WISCONS  200 NELSON, A.  NELSON, ADOLPHUS PETER   
+
+
+Congress 90:
+Shapes w/o votes: NY-18, 
+
+New York's 18th district appears to be unfilled in the rollcall data.
+
+From HOU90KH.ORD
+                    state icpsrState cd icpsrLegis party partyCode
+PIKE (D NY-1)          NY         13  1      10545     D       100
+GROVER (R NY-2)        NY         13  2      10592     R       200
+WOLFF (D NY-3)         NY         13  3      10784     D       100
+WYDLER (R NY-4)        NY         13  4      10638     R       200
+TENZER (D NY-5)        NY         13  5      10775     D       100
+HALPERN (R NY-6)       NY         13  6       3967     R       200
+ADDABBO (D NY-7)       NY         13  7      10500     D       100
+ROSENTHAL (D NY-8)     NY         13  8      10551     D       100
+DELANEY (D NY-9)       NY         13  9       2476     D       100
+CELLER (D NY-10)       NY         13 10       1611     D       100
+BRASCO (D NY-11)       NY         13 11      11004     D       100
+KELLY (D NY-12)        NY         13 12       5148     D       100
+MULTER (D NY-13)       NY         13 13       6792     D       100
+PODELL (D NY-13)       NY         13 13      11064     D       100
+ROONEY (D NY-14)       NY         13 14       8049     D       100
+CAREY (D NY-15)        NY         13 15      10508     D       100
+MURPHY (D NY-16)       NY         13 16      10611     D       100
+KUPFERMAN (R NY-17)    NY         13 17      10789     R       200
+FARBSTEIN (D NY-19)    NY         13 19       3056     D       100
+RYAN (D NY-20)         NY         13 20      10555     D       100
+SCHEUER (D NY-21)      NY         13 21      10768     D       100
+GILBERT (D NY-22)      NY         13 22       3575     D       100
+BINGHAM (D NY-23)      NY         13 23      10705     D       100
+FINO (R NY-24)         NY         13 24       3158     R       200
+OTTINGER (D NY-25)     NY         13 25      10760     D       100
+REID (R NY-26)         NY         13 26      10618     R       200
+DOW (D NY-27)          NY         13 27      10718     D       100
+RESNICK (D NY-28)      NY         13 28      10764     D       100
+BUTTON (R NY-29)       NY         13 29      11009     R       200
+KING (R NY-30)         NY         13 30      10530     R       200
+MCEWEN (R NY-31)       NY         13 31      10749     R       200
+PIRNIE (R NY-32)       NY         13 32       7467     R       200
+ROBISON (R NY-33)      NY         13 33       7995     R       200
+HANLEY (D NY-34)       NY         13 34      10733     D       100
+STRATTON (D NY-35)     NY         13 35       9017     D       100
+HORTON (R NY-36)       NY         13 36      10596     R       200
+CONABLE (R NY-37)      NY         13 37      10712     R       200
+GOODELL (R NY-38)      NY         13 38       3670     R       200
+MCCARTHY (D NY-39)     NY         13 39      10748     D       100
+SMITH (R NY-40)        NY         13 40      10771     R       200
+DULSKI (D NY-41)       NY         13 41       2752     D       100
+
+From h01112nw_pres.txt:
+  80  5898 13 1 NEW YOR  200 MACY, W.    MACY, WILLIAM KINGSLAND  
+  80  3946 13 2 NEW YOR  200 HALL, L.W.  HALL, LEONARD WOOD       
+  80  5488 13 3 NEW YOR  200 LATHAM, H.  LATHAM, HENRY JEPSON     
+  80  6345 13 4 NEW YOR  200 MCMAHON, G. MCMAHON, GREGORY         
+  80  8075 13 5 NEW YOR  200 ROSS, R.    ROSS, ROBERT TRIPP       
+  80  6944 13 6 NEW YOR  200 NODAR, R.   NODAR, ROBERT JOSEPH JR. 
+  80  2477 13 7 NEW YOR  100 DELANEY, J. DELANEY, JOHN JOSEPH     
+  80  7390 13 8 NEW YOR  100 PFEIFER, J. PFEIFER, JOSEPH LAWRENCE 
+  80  5199 13 9 NEW YOR  100 KEOGH, E.   KEOGH, EUGENE JAMES      
+  80  8739 1310 NEW YOR  100 SOMERS, A.  SOMERS, ANDREW LAWRENCE  
+  80  4279 1311 NEW YOR  100 HEFFERNAN,  HEFFERNAN, JAMES JOSEPH  
+  80  8049 1312 NEW YOR  100 ROONEY, J.  ROONEY, JOHN JAMES       
+  80  7114 1313 NEW YOR  100 O'TOOLE, D. O'TOOLE, DONALD          
+  80  7754 1314 NEW YOR  100 RAYFIEL, L. RAYFIEL, LEO FREDERICK   
+  80  6792 1314 NEW YOR  100 MULTER,     MULTER, ABRAHAM JACOB    
+  80  1611 1315 NEW YOR  100 CELLER, E.  CELLER, EMANUEL          
+  80  1197 1316 NEW YOR  200 BUCK, E.    BUCK, ELLSWORTH BREWER   
+  80  2089 1317 NEW YOR  200 COUDERT, F. COUDERT, FREDERIC RENE, J
+  80  5974 1318 NEW YOR  522 MARCANTONIO MARCANTONIO, VITO        
+  80  5317 1319 NEW YOR  100 KLEIN, A.   KLEIN, ARTHUR GEORGE     
+  80   802 1320 NEW YOR  100 BLOOM, S.   BLOOM, SOL               
+  80  4898 1321 NEW YOR  200 JAVITS, J.  JAVITS, JACOB KOPPEL     
+  80  7568 1322 NEW YOR  100 POWELL, A.  POWELL, ADAM CLAYTON JR. 
+  80  5859 1323 NEW YOR  100 LYNCH, W.   LYNCH, WALTER ALOYSIUS   
+  80  7683 1324 NEW YOR  100 RABIN, B.   RABIN, BENJAMIN J.       
+  80  4831 1324 NEW YOR  522 ISACSON,    ISACSON, LEO             
+  80  1205 1325 NEW YOR  100 BUCKLEY, C. BUCKLEY, CHARLES ANTHONY 
+  80  7563 1326 NEW YOR  200 POTTS, D.   POTTS, DAVID MATTHEW     
+  80  3888 1327 NEW YOR  200 GWINN, R.   GWINN, RALPH WALDO       
+  80  3446 1328 NEW YOR  200 GAMBLE, R.  GAMBLE, RALPH ABERNETHY  
+  80  8177 1329 NEW YOR  200 ST.GEORGE,  ST. GEORGE, KATHARINE PRI
+  80  5580 1330 NEW YOR  200 LEFEVRE, J. LE FEVRE, JAY            
+  80  5110 1331 NEW YOR  200 KEARNEY, B. KEARNEY, BERNARD WILLIAM 
+  80  1369 1332 NEW YOR  100 BYRNE, W.   BYRNE, WILLIAM THOMAS    
+  80  9203 1333 NEW YOR  200 TAYLOR, D.  TAYLOR, DEAN PARK        
+  80  5235 1334 NEW YOR  200 KILBURN, C. KILBURN, CLARENCE EVANS  
+  80  3396 1335 NEW YOR  200 FULLER, H.  FULLER, HADWEN CARLTON   
+  80  7901 1336 NEW YOR  200 RIEHLMAN,   RIEHLMAN, ROY WALTER     
+  80  3937 1337 NEW YOR  200 HALL, E.A.  HALL, EDWIN ARTHUR       
+  80  9144 1338 NEW YOR  200 TABER, J.   TABER, JOHN              
+  80  1931 1339 NEW YOR  200 COLE, W.    COLE, WILLIAM STERLING   
+  80  5116 1340 NEW YOR  200 KEATING, K. KEATING, KENNETH BARNARD 
+  80  9705 1341 NEW YOR  200 WADSWORTH,  WADSWORTH, JAMES WOLCOTT,
+  80   200 1342 NEW YOR  200 ANDREWS, W. ANDREWS, WALTER GRESHAM  
+  80  2947 1343 NEW YOR  200 ELSAESSER,  ELSAESSER, EDWARD JULIUS 
+  80  1340 1344 NEW YOR  200 BUTLER, J.  BUTLER, JOHN CORNELIUS   
+  80  7781 1345 NEW YOR  200 REED, D.    REED, DANIEL ALDEN      

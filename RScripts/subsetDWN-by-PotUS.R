@@ -60,7 +60,7 @@ DWNPOTUS$STCD <- paste(DWNPOTUS$state_abbrev,"-DC", sep="")
 
 #DWNHouse_NewYork$STCD <- paste(DWNHouse_NewYork$state_abbrev,"-",DWNHouse_NewYork$district_code, sep="")
 
-OutputCSV <- "DWN-POTUS43-BHObama-C114.csv"
+OutputCSV <- "DWN_POTUS43_BHObama_C114.csv"
 OutputFolder <- "DWNominate-Data"
 
 write.csv(DWNPOTUS, file = paste(OutputFolder,OutputCSV, sep = "/"))
