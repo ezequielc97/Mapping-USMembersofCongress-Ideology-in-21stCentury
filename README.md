@@ -31,7 +31,7 @@ end of doc).
 
 ##### Initial interactive webmaps
 
-<https://htmlpreview.github.io//ezequielc97/Mapping-USMembersofCongress-Ideology-in-21stCentury/blob/main/qgis2web_maps/116thHouse/qgis2web_2020_10_04-18_44_27_592960/index.html>
+<https://htmlpreview.github.io/?https://github.com/ezequielc97/Mapping-USMembersofCongress-Ideology-in-21stCentury/blob/main/qgis2web_maps/116thHouse/qgis2web_2020_10_04-18_44_27_592960/index.html>
 
 ##### Rough Map Samples
 
