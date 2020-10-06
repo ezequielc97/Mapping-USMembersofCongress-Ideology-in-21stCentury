@@ -1,0 +1,119 @@
+<Layout printResolution="400" worldFileMap="{b76ed52a-d2c1-44fa-b101-a933a78b4a86}" units="mm" name="DWN1-116thC-House-California">
+ <Snapper snapToGrid="0" snapToItems="1" tolerance="10" snapToGuides="1"/>
+ <Grid resolution="10" offsetX="0" offsetY="0" offsetUnits="mm" resUnits="mm"/>
+ <PageCollection>
+  <symbol type="fill" force_rhr="0" alpha="1" clip_to_extent="1" name="">
+   <layer locked="0" class="SimpleFill" enabled="1" pass="0">
+    <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+    <prop v="255,255,255,255" k="color"/>
+    <prop v="miter" k="joinstyle"/>
+    <prop v="0,0" k="offset"/>
+    <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+    <prop v="MM" k="offset_unit"/>
+    <prop v="35,35,35,255" k="outline_color"/>
+    <prop v="no" k="outline_style"/>
+    <prop v="0.26" k="outline_width"/>
+    <prop v="MM" k="outline_width_unit"/>
+    <prop v="solid" k="style"/>
+    <data_defined_properties>
+     <Option type="Map">
+      <Option type="QString" value="" name="name"/>
+      <Option name="properties"/>
+      <Option type="QString" value="collection" name="type"/>
+     </Option>
+    </data_defined_properties>
+   </layer>
+  </symbol>
+  <LayoutItem blendMode="0" type="65638" visibility="1" zValue="0" templateUuid="{80dffa0a-27a7-4354-8b67-b67994ce8aa5}" referencePoint="0" opacity="1" id="" groupUuid="" itemRotation="0" positionOnPage="0,0,mm" frame="false" positionLock="false" frameJoinStyle="miter" size="1000,1200,mm" background="true" excludeFromExports="0" outlineWidthM="0.3,mm" uuid="{80dffa0a-27a7-4354-8b67-b67994ce8aa5}" position="0,0,mm">
+   <FrameColor green="0" blue="0" red="0" alpha="255"/>
+   <BackgroundColor green="255" blue="255" red="255" alpha="255"/>
+   <LayoutObject>
+    <dataDefinedProperties>
+     <Option type="Map">
+      <Option type="QString" value="" name="name"/>
+      <Option name="properties"/>
+      <Option type="QString" value="collection" name="type"/>
+     </Option>
+    </dataDefinedProperties>
+    <customproperties/>
+   </LayoutObject>
+   <symbol type="fill" force_rhr="0" alpha="1" clip_to_extent="1" name="">
+    <layer locked="0" class="SimpleFill" enabled="1" pass="0">
+     <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+     <prop v="255,255,255,255" k="color"/>
+     <prop v="miter" k="joinstyle"/>
+     <prop v="0,0" k="offset"/>
+     <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+     <prop v="MM" k="offset_unit"/>
+     <prop v="35,35,35,255" k="outline_color"/>
+     <prop v="no" k="outline_style"/>
+     <prop v="0.26" k="outline_width"/>
+     <prop v="MM" k="outline_width_unit"/>
+     <prop v="solid" k="style"/>
+     <data_defined_properties>
+      <Option type="Map">
+       <Option type="QString" value="" name="name"/>
+       <Option name="properties"/>
+       <Option type="QString" value="collection" name="type"/>
+      </Option>
+     </data_defined_properties>
+    </layer>
+   </symbol>
+  </LayoutItem>
+  <GuideCollection visible="1"/>
+ </PageCollection>
+ <LayoutItem blendMode="0" equalColumnWidth="0" symbolWidth="90" columnCount="1" legendFilterByMap="1" templateUuid="{f9590321-966b-4841-8d63-4960271f0100}" wmsLegendHeight="25" resizeToContents="0" symbolHeight="40" uuid="{f9590321-966b-4841-8d63-4960271f0100}" rasterBorder="1" itemRotation="0" frame="false" zValue="2" rasterBorderColor="0,0,0,255" position="-4.94619e-15,726.129,mm" lineSpacing="1" excludeFromExports="0" type="65642" referencePoint="0" positionOnPage="-4.94619e-15,726.129,mm" wrapChar="" groupUuid="" titleAlignment="4" background="true" columnSpace="2" positionLock="false" size="395.801,473.871,mm" visibility="1" frameJoinStyle="miter" outlineWidthM="0.3,mm" legendFilterByAtlas="0" rasterBorderWidth="0" symbolAlignment="1" title="Representative Nominate Dim-1 Score" splitLayer="0" boxSpace="2" id="" opacity="1" fontColor="#000000" wmsLegendWidth="50">
+  <FrameColor green="0" blue="0" red="0" alpha="255"/>
+  <BackgroundColor green="255" blue="255" red="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" value="" name="name"/>
+     <Option name="properties"/>
+     <Option type="QString" value="collection" name="type"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <styles>
+   <style alignment="1" marginBottom="3.5" name="title">
+    <styleFont description=".AppleSystemUIFont,60,-1,5,50,0,0,0,0,0" style=""/>
+   </style>
+   <style alignment="1" marginTop="3" name="group">
+    <styleFont description=".AppleSystemUIFont,14,-1,5,50,0,0,0,0,0" style=""/>
+   </style>
+   <style alignment="4" marginTop="3" name="subgroup">
+    <styleFont description=".AppleSystemUIFont,50,-1,5,50,0,0,0,0,0" style=""/>
+   </style>
+   <style alignment="1" marginTop="2.5" name="symbol">
+    <styleFont description=".AppleSystemUIFont,13,-1,5,50,0,0,0,0,0" style=""/>
+   </style>
+   <style alignment="4" marginLeft="2" marginTop="2" name="symbolLabel">
+    <styleFont description=".AppleSystemUIFont,50,-1,5,50,0,0,0,0,0" style=""/>
+   </style>
+  </styles>
+ </LayoutItem>
+ <LayoutItem blendMode="0" type="65639" labelMargin="0,mm" visibility="1" zValue="1" mapFlags="0" templateUuid="{b76ed52a-d2c1-44fa-b101-a933a78b4a86}" referencePoint="0" opacity="1" followPresetName="" id="" groupUuid="" itemRotation="0" positionOnPage="0,0,mm" frame="false" keepLayerSet="false" positionLock="false" isTemporal="0" followPreset="false" drawCanvasItems="true" frameJoinStyle="miter" size="1000,1200,mm" background="true" mapRotation="0" excludeFromExports="0" outlineWidthM="0.3,mm" uuid="{b76ed52a-d2c1-44fa-b101-a933a78b4a86}" position="0,0,mm">
+  <FrameColor green="0" blue="0" red="0" alpha="255"/>
+  <BackgroundColor green="255" blue="255" red="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" value="" name="name"/>
+     <Option name="properties"/>
+     <Option type="QString" value="collection" name="type"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <Extent ymax="5348602.14153365604579449" xmax="-12702896.61078008450567722" ymin="3600102.57737200101837516" xmin="-14159979.58091479726135731"/>
+  <LayerSet/>
+  <AtlasMap atlasDriven="0" margin="0.10000000000000001" scalingMode="2"/>
+  <labelBlockingItems/>
+ </LayoutItem>
+ <customproperties>
+  <property key="atlasRasterFormat" value="png"/>
+  <property key="rasterize" value="true"/>
+ </customproperties>
+ <Atlas enabled="0" coverageLayer="" filterFeatures="0" sortFeatures="0" pageNameExpression="" hideCoverage="0" filenamePattern="'output_'||@atlas_featurenumber"/>
+</Layout>
