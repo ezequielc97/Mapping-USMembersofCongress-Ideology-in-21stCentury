@@ -55,7 +55,7 @@ Congress, United States
 ![Representative Dimension 1 Nominate Scores by District, California,
 2018](maps_png/DWN-D1-116thC-House-California.png)
 
-##### To Do Next
+#### To Do Next
 
   - ~~Finish Mapping Dimension 1 Nominate Score for all 2018 House
     districts~~
@@ -77,14 +77,22 @@ Congress, United States
 
 #### Data
 
-Ideological data from:
+##### Ideological data from:
 
   - Lewis, Jeffrey B., Keith Poole, Howard Rosenthal, Adam Boche, Aaron
     Rudkin, and Luke Sonnet (2020). Voteview: Congressional Roll-Call
     Votes Database. <https://voteview.com/>
 
-Congressional District cartographic boundary data from:
+##### Congressional District cartographic boundary data for 113-116th Congress from:
 
-  - [US Census Bureau - Congressional DistrictsCartographic Boundary
-    Files -
+  - [US Census Bureau - US Congressional District Cartographic Boundary
+    shapefiles -
     Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
+    <https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html>
+
+##### Congressional District cartographic boundary data for 112th Congress and earlier from:
+
+  - Jeffrey B. Lewis, Brandon DeVine, Lincoln Pitcher, and Kenneth C.
+    Martis. (2013) Digital Boundary Definitions of U.S. Congressional
+    Districts, 1789-2012. Retrieved from
+    <http://cdmaps.polisci.ucla.edu> on October 5, 2020
