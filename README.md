@@ -23,11 +23,16 @@ end of doc).
 #### File Table
 
   - map-master.qgz ….. latest master QGIS map project
-  - /CongDistrict-CartographicBoundaries ….. Congressional
-    district/State boundary shapefiles
+  - /district\_boundaries\_shapefiles ….. district and state boundary
+    shapefiles
   - /QGIS-Files ….. QGIS map export templates
-  - /DWNominate-Data ….. Ideological data House/Senate/POTUS
+  - /member\_ideology\_data ….. Ideological data for House, Senate,
+    POTUS
   - /RScripts ….. mainly subset data scripts
+  - /qgis2web\_maps ….. rough webmaps (.zip)
+  - /maps\_png ….. rough map outputs (.png)
+  - /district\_boundaries\_shapefiles/documentation\_jefflewis\_ucla …..
+    documentation for district shapefile metadata
 
 #### Initial interactive webmaps
 
@@ -64,18 +69,17 @@ end of doc).
   - ~~Finish Mapping Dimension 1 Nominate Score for all 2018 House
     districts~~
   - ~~adjust map color coding~~
-  - update file table
+  - ~~update file table~~
   - ~~add Senate shape layer to map, join Nominate dimension1 data~~
   - upgrade introduction
   - ~~add PRESIDENT nominate dimension1 score for 2016-2018 to color
     Washington DC~~
   - map dimension 2 scores for 2018
-  - Add 2016-2017 Congressional district layer to GIS proj
+  - ~~Add 2016-2017 Congressional district layer to GIS proj~~
   - build R script to subset by political party, add party layer to GIS
     proj
   - ~~build initial webmap~~
-  - package webmap(s) into .zip files for download
-  - Add 2016-2017 Congressional district layer to GIS proj
+  - ~~package webmap(s) into .zip files for download~~
   - build %change over election years plot script
   - build project site to exhibit maps
 
