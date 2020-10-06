@@ -34,18 +34,22 @@ This work in progress will map DW-Nominate Scores for US members of Congress (US
 
 #### Rough Map Samples ####
 
-- Mapped House Districts for Dimension 1 Scores [as of 10/4/20], 116th Congress, United States (2018)
+- Representative Nominate Dimension 1 scores by Congressional District, 116th Congress (2019-2021)
 
-![Mapped House Districts for Dimension 1 Scores (as of 10/4/20), 116th Congress, United States (2018)](maps_png/DWN-D1-MappedDistricts-current.png)
+![Representative Nominate Dimension 1 scores by Congressional District, 116th Congress (2019-2021)](maps_png/nl_116_MasterView_Massive.png)
 
-- Mapped Senate Districts for Dimension 1 Scores [as of 10/4/20], 116th Congress, United States (2018)
+- Representative Nominate Dimension 1 scores by Congressional District, 115th Congress (2017-2019)
 
-![Mapped House Districts for Dimension 1 Scores (as of 10/45/20), 116th Congress, United States (2018)](maps_png/DWN-D1-MappedStates-current.png)
+![Representative Nominate Dimension 1 scores by Congressional District, 115th Congress (2017-2019)](maps_png/nl_115_MasterView_Massive.png)
 
+- Representative Nominate Dimension 1 scores by Congressional District, 114th Congress (2015-2017)
 
-- Representative Dimension 1 Nominate Scores by District, 116th Congress, California (2018)
+![Representative Nominate Dimension 1 scores by Congressional District, 114th Congress (2015-2017)](maps_png/nl_114_MasterView_Massive.png)
 
-![Representative Dimension 1 Nominate Scores by District, California, 2018](maps_png/DWN-D1-116thC-House-California.png)
+- Representative Nominate Dimension 1 scores by Congressional District, 113th Congress (2013-2015)
+
+![Representative Nominate Dimension 1 scores by Congressional District, 113th Congress (2013-2015)](maps_png/nl_113_MasterView_Massive.png)
+
 
 
 #### To Do Next ####
