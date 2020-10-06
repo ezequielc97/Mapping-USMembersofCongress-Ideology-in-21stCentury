@@ -36,7 +36,11 @@ end of doc).
 
 #### Initial interactive webmaps
 
-(hosting somewhere on web soon)
+Initial webmaps .zips for 116th Congress (house and Senate) can be
+downloaded below Unzip and open “index.html” in a browser to view. The
+maps work best on desktop browsers.
+
+  - [Initial webmaps](qgis2web_maps)
 
 #### Rough Map Samples
 
