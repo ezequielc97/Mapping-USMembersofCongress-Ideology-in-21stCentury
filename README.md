@@ -7,13 +7,14 @@ Ezequiel Contreras
 DW-NOMINATE Scores are measures of legislators’ ideological positions in
 a basic space developed by Keith T. Poole and Howard Rosenthal. The
 proximity of two legislators in this space reflects the similarity of
-their voting records. As such, the distribution of the scores can be
-seen as a representation of polarization. The scores go along two
-dimensions. The primary dimension, which is the focus of this project,
-is the “left-right” dimension (sometimes called the
-“liberal-conservative” dimension). This single dimension correctly
-predicts the vast majority of legislators’ votes cast in modern
-Congresses in the United States.
+their voting records. The model assumes individual legislators have
+stable ideological positions over their congressional careers. As such,
+the distribution of the scores can be seen as a representation of
+polarization. The scores go along two dimensions. The primary dimension,
+which is the focus of this project, is the “left-right” dimension
+(sometimes called the “liberal-conservative” dimension). This single
+dimension correctly predicts the vast majority of legislators’ votes
+cast in modern Congresses in the United States.
 
 The scores for each dimension range from -1 (more ideologically left) to
 1 (more ideologicaly right). The measures can be used to gauge at
@@ -75,7 +76,13 @@ from the 1st to 116th Congresses (see citation at end of doc).
     District, 112th Congress (2011-2013)
 
 ![Representative NOMINATE Dimension 1 scores by Congressional District,
-112th Congress (2013-2015)](maps_png/nl_districts112_overview_large.png)
+112th Congress (2011-2013)](maps_png/nl_districts112_overview_large.png)
+
+  - Representative NOMINATE Dimension 1 scores by Congressional
+    District, 111th Congress (2009-2011)
+
+![Representative NOMINATE Dimension 1 scores by Congressional District,
+111th Congress (2009-2011)](maps_png/nl_districts111_overview_large.png)
 
   - California Representative NOMINATE Dimension 1 scores by
     Congressional District, 112th Congress (2011-2013); district labels
