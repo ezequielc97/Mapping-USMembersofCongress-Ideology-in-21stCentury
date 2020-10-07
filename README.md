@@ -94,15 +94,11 @@ District, 112th Congress
 
 #### To Do Next
 
-  - ~~Finish Mapping Dimension 1 Nominate Score for all 2018 House
-    districts~~
-  - ~~adjust map color coding~~
-  - ~~update file table~~
-  - ~~add Senate shape layer to map, join Nominate dimension1 data~~
-  - ~~add PRESIDENT nominate dimension1 score for 2016-2018 to color
-    Washington DC~~
-  - map dimension 2 scores for 2018
-  - ~~Add 2016-2017 Congressional district layer to GIS proj~~
+  - ~~Finish color Mapping Dimension 1 Nominate Score for 116th - 111th
+    Congresses~~
+  - Update file table
+  - add Senate shape layer to map
+  - add PRESIDENT nominate dimension1 score data\~\~
   - ~~build initial webmap~~
   - ~~package webmap(s) into .zip files for download~~
   - build project site to exhibit maps
