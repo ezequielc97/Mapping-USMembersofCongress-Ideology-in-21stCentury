@@ -84,6 +84,12 @@ from the 1st to 116th Congresses (see citation at end of doc).
 ![Representative NOMINATE Dimension 1 scores by Congressional District,
 111th Congress (2009-2011)](maps_png/nl_districts111_overview_large.png)
 
+  - Representative NOMINATE Dimension 1 scores by Congressional
+    District, 110th Congress (2007-2009)
+
+![Representative NOMINATE Dimension 1 scores by Congressional District,
+110th Congress (2007-2009)](maps_png/nl_districts110_overview_large.png)
+
   - California Representative NOMINATE Dimension 1 scores by
     Congressional District, 112th Congress (2011-2013); district labels
     are readable when zoomed in.
@@ -96,6 +102,7 @@ District, 112th Congress
 
   - ~~Finish color Mapping Dimension 1 Nominate Score for 116th - 111th
     Congresses~~
+  - add 109th congress house layer
   - Update file table
   - add Senate shape layer to map
   - add PRESIDENT nominate dimension1 score data\~\~
@@ -111,16 +118,16 @@ District, 112th Congress
     Rudkin, and Luke Sonnet (2020). Voteview: Congressional Roll-Call
     Votes Database. <https://voteview.com/>
 
-##### Congressional District cartographic boundary data for 113-116th Congress from:
-
-  - [US Census Bureau - US Congressional District Cartographic Boundary
-    shapefiles -
-    Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
-    <https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html>
-
 ##### Congressional District cartographic boundary data for 114th Congress and earlier from:
 
   - Jeffrey B. Lewis, Brandon DeVine, Lincoln Pitcher, and Kenneth C.
     Martis. (2013) Digital Boundary Definitions of U.S. Congressional
     Districts, 1789-2012. Retrieved from
     <http://cdmaps.polisci.ucla.edu> on October 5, 2020
+
+##### Congressional District cartographic boundary data for 113-116th Congress from:
+
+  - [US Census Bureau - US Congressional District Cartographic Boundary
+    shapefiles -
+    Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
+    <https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html>
