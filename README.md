@@ -2,23 +2,34 @@ Mapping Ideology of US Congress Members in the 21st Century (2000-2018)
 ================
 Ezequiel Contreras
 
-# Mapping-USMembersofCongress-Ideology-in-21stCentury
+### Introduction
 
-#### Introduction
+DW-NOMINATE Scores are measures of legislators’ ideological positions in
+a basic space developed by Keith T. Poole and Howard Rosenthal. The
+proximity of two legislators in this space reflects the similarity of
+their voting records. As such, the distribution of the scores can be
+seen as a representation of polarization. The scores go along two
+dimensions. The primary dimension, which is the focus of this project,
+is the “left-right” dimension (sometimes called the
+“liberal-conservative” dimension). This single dimension correctly
+predicts the vast majority of legislators’ votes cast in modern
+Congresses in the United States.
+
+The scores for each dimension range from -1 (more ideologically left) to
+1 (more ideologicaly right). The measures can be used to gauge at
+polarization, but comprehension of these scores can not be complete
+without historical knowledge of the details of the issues that the votes
+revolved around.
 
 The purpose of this work in progress is to map US Representatives’ and
-Senators’ ideological scores onto their districts.
+Senators’ ideological scores onto their districts. This project will map
+by color DW-Nominate Scores for members of the United States Congress
+(both Representatives and Senators) by Congressional District for the
+period of 2000-2018.
 
-DW-NOMINATE Scores are a measure of ideology developed by Keith T. Poole
-and Howard Rosenthal at Carnegie-Mellon University between in the late
-1980’s.
-
-This work in progress will map DW-Nominate Scores for US members of
-Congress (US Representatives and Senators) by Congressional District for
-the period of 2000-2018. This project uses ideological data accessible
-through voteview.com. Voteview.com hosts DW-Nominate Score data for all
-Members of Congress from the 1st to 116th Congresses (see citation at
-end of doc).
+This project uses ideological data accessible through voteview.com.
+Voteview.com hosts DW-Nominate Score data for all Members of Congress
+from the 1st to 116th Congresses (see citation at end of doc).
 
 #### File Table
 
@@ -34,39 +45,45 @@ end of doc).
   - /district\_boundaries\_shapefiles/documentation\_jefflewis\_ucla …..
     documentation for district shapefile metadata
 
-#### Initial interactive webmaps
-
-Initial webmaps .zips for 116th Congress (house and Senate) can be
-downloaded below. Unzip and open “index.html” in a browser to view. The
-maps work best on desktop browsers.
-
-  - [Initial webmaps](qgis2web_maps)
-
 #### Rough Map Samples
 
-  - Representative Nominate Dimension 1 scores by Congressional
+  - Representative NOMINATE Dimension 1 scores by Congressional
     District, 116th Congress (2019-2021)
 
-![Representative Nominate Dimension 1 scores by Congressional District,
-116th Congress (2019-2021)](maps_png/nl_116_MasterView_Massive.png)
+![Representative NOMINATE Dimension 1 scores by Congressional District,
+116th Congress (2019-2021)](maps_png/nl_districts116_overview_large.png)
 
-  - Representative Nominate Dimension 1 scores by Congressional
+  - Representative NOMINATE Dimension 1 scores by Congressional
     District, 115th Congress (2017-2019)
 
-![Representative Nominate Dimension 1 scores by Congressional District,
-115th Congress (2017-2019)](maps_png/nl_115_MasterView_Massive.png)
+![Representative NOMINATE Dimension 1 scores by Congressional District,
+115th Congress (2017-2019)](maps_png/nl_districts115_overview_large.png)
 
-  - Representative Nominate Dimension 1 scores by Congressional
+  - Representative NOMINATE Dimension 1 scores by Congressional
     District, 114th Congress (2015-2017)
 
-![Representative Nominate Dimension 1 scores by Congressional District,
-114th Congress (2015-2017)](maps_png/nl_114_MasterView_Massive.png)
+![Representative NOMINATE Dimension 1 scores by Congressional District,
+114th Congress (2015-2017)](maps_png/nl_districts114_overview_large.png)
 
-  - Representative Nominate Dimension 1 scores by Congressional
+  - Representative NOMINATE Dimension 1 scores by Congressional
     District, 113th Congress (2013-2015)
 
-![Representative Nominate Dimension 1 scores by Congressional District,
-113th Congress (2013-2015)](maps_png/nl_113_MasterView_Massive.png)
+![Representative NOMINATE Dimension 1 scores by Congressional District,
+113th Congress (2013-2015)](maps_png/nl_districts113_overview_large.png)
+
+  - Representative NOMINATE Dimension 1 scores by Congressional
+    District, 112th Congress (2011-2013)
+
+![Representative NOMINATE Dimension 1 scores by Congressional District,
+112th Congress (2013-2015)](maps_png/nl_districts112_overview_large.png)
+
+  - California Representative NOMINATE Dimension 1 scores by
+    Congressional District, 112th Congress (2011-2013); district labels
+    are readable when zoomed in.
+
+![California Representative NOMINATE Dimension 1 scores by Congressional
+District, 112th Congress
+(2011-2013)](maps_png/ca_districts112_overview_large.png)
 
 #### To Do Next
 
@@ -75,19 +92,15 @@ maps work best on desktop browsers.
   - ~~adjust map color coding~~
   - ~~update file table~~
   - ~~add Senate shape layer to map, join Nominate dimension1 data~~
-  - upgrade introduction
   - ~~add PRESIDENT nominate dimension1 score for 2016-2018 to color
     Washington DC~~
   - map dimension 2 scores for 2018
   - ~~Add 2016-2017 Congressional district layer to GIS proj~~
-  - build R script to subset by political party, add party layer to GIS
-    proj
   - ~~build initial webmap~~
   - ~~package webmap(s) into .zip files for download~~
-  - build %change over election years plot script
   - build project site to exhibit maps
 
-#### Data
+#### References and Sources
 
 ##### Ideological data from:
 
@@ -102,7 +115,7 @@ maps work best on desktop browsers.
     Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
     <https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html>
 
-##### Congressional District cartographic boundary data for 112th Congress and earlier from:
+##### Congressional District cartographic boundary data for 114th Congress and earlier from:
 
   - Jeffrey B. Lewis, Brandon DeVine, Lincoln Pitcher, and Kenneth C.
     Martis. (2013) Digital Boundary Definitions of U.S. Congressional
