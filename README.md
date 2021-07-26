@@ -14,23 +14,15 @@ polarization. The scores go along two dimensions. The primary dimension,
 which is the focus of this project, is the “left-right” dimension
 (sometimes called the “liberal-conservative” dimension). This single
 dimension correctly predicts the vast majority of legislators’ votes
-cast in modern Congresses in the United States.
-
+cast in modern Congresses in the United States. 
 The scores for each dimension range from -1 (more ideologically left) to
 1 (more ideologicaly right). The measures can be used to gauge at
 polarization, but comprehension of these scores can not be complete
-without historical knowledge of the details of the issues that the votes
-revolved around.
-
-The purpose of this work in progress is to map US Representatives’ and
-Senators’ ideological scores onto their districts. This project will map
-by color DW-Nominate Scores for members of the United States Congress
-(both Representatives and Senators) by Congressional District for the
-period of 2000-2018.
+without knowledge of the historical context the votes take place in.
 
 This project uses ideological data accessible through voteview.com.
 Voteview.com hosts DW-Nominate Score data for all Members of Congress
-from the 1st to 116th Congresses (see citation at end of doc).
+from the 1st to 116th Congresses.
 
 #### File Table
 
@@ -102,15 +94,13 @@ District, 112th Congress
 
   - ~~Finish color Mapping Dimension 1 Nominate Score for 116th - 111th
     Congresses~~
-  - add 109th congress house layer
-  - Update file table
-  - add Senate shape layer to map
+  - add 109th congress house map layer
   - add PRESIDENT nominate dimension1 score data\~\~
   - ~~build initial webmap~~
   - ~~package webmap(s) into .zip files for download~~
-  - build project site to exhibit maps
 
-#### References and Sources
+
+#### Sources
 
 ##### Ideological data from:
 
